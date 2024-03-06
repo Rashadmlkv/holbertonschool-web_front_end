@@ -71,7 +71,7 @@ a:active {
     padding-right: var(--section-footer-padding);
     padding-top: var(--section-footer-padding);
     padding-bottom: var(--section-footer-padding);
-    z-index: var(--section-footer-align);
+    text-align: var(--section-footer-align);
 }
 
 .section-title {
