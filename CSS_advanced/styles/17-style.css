@@ -1,3 +1,5 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
+
 *,
 *::before,
 *::after {
@@ -139,5 +141,3 @@ h6 {
     padding-top: var(--footer-padding);
     padding-bottom: var(--footer-padding);
 }
-
-@import url(https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
